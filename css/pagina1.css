@@ -4,7 +4,7 @@
     text-align: center;
     padding: 20px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     position: relative;
     z-index: 1;
 }
@@ -13,7 +13,7 @@ a {
     background-color: rgba(66, 65, 73, 1);
     color: #fff;
     border-radius: 5px;  
-   align-items: center;   
+   align-items: center;  
 }
 
 #cabecario a {
@@ -71,7 +71,7 @@ body {
     justify-content: space-between;
 }
 
-.imgs {
+.imgs   {
     display: flex;
     width: 100%;
     height: auto;
